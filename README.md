@@ -1,6 +1,6 @@
 # Hi, I'm Elena 👋
 
-**Entry-level IT Support | Help Desk | Cloud Support**
+**IT Support | Help Desk | Cloud Support**
 CompTIA A+ | Microsoft Azure Fundamentals (AZ-900)
 
 ## About me
