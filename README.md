@@ -1,7 +1,7 @@
 # Hi, I'm Elena 👋
 
 **IT Support | Help Desk | Cloud Support**
-CompTIA A+ | Microsoft Azure Fundamentals (AZ-900)
+- CompTIA A+ | Microsoft Azure Fundamentals (AZ-900)
 
 ## About me
 I'm transitioning into IT after a finance career, bringing strong attention to detail, analytical thinking, and experience working with complex documentation and business processes. I'm a self-taught, detail-oriented problem solver who enjoys figuring out why things break and explaining the fix in plain language.
